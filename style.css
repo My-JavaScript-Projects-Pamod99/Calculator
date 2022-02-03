@@ -25,9 +25,9 @@ input{
     grid-column: span 4;
     height: 70px;
     width: 260px;
-    background-color: #eee;
+    background-color: rgb(215, 192, 238);
     box-shadow: inset -5px -5px 12px #fff,
-                    5px 5px 12px rgba(0, 0, 0, .16);
+                    5px 5px 12px rgba(0, 0, 0, 0.16);
     border: none;
     border-radius: 30px;
     color: rgba(70, 70, 70);
@@ -41,7 +41,7 @@ input{
 button{
     height: 48px;
     width: 48px;
-    background-color: #eee;
+    background-color: rgb(215, 192, 238);
     box-shadow: inset 5px 5px 12px #fff,
                     5px 5px 12px rgba(0, 0, 0, .16);
     border: none;
@@ -56,7 +56,7 @@ button{
 }
 .equal{
     width: 115px;
-    background-color: #eee;
+    background-color: rgb(209, 94, 94);
     box-shadow: inset 5px 5px 12px #fff,
                     5px 5px 12px rgba(0, 0, 0, .16);
     border-radius: 40px;
